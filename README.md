@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mohsin Chughtai
+# 👋 Hey, I'm Mohsin or Mo
 
 ### 💻 Software Engineering Student | Aspiring AI & Systems Engineer
 
