@@ -32,18 +32,6 @@ My focus is on building strong engineering fundamentals, developing practical pr
       </ul>
       <p><strong>Focus:</strong> OOP, collections, validation, and software architecture.</p>
     </td>
-    <td width="50%">
-      <h3>🎓 Student OS</h3>
-      <p>A long-term project exploring a smarter way to organise university life and student productivity.</p>
-      <strong>Planned Features</strong>
-      <ul>
-        <li>Deadline and study management</li>
-        <li>Personal productivity tools</li>
-        <li>AI-assisted workflows</li>
-        <li>Intelligent automation</li>
-      </ul>
-      <p><strong>Focus:</strong> System design, usability, and AI integration.</p>
-    </td>
   </tr>
 </table>
 
