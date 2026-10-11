@@ -42,22 +42,26 @@ My focus is on building strong engineering fundamentals, developing practical pr
 <table>
   <tr>
     <td width="50%" valign="top">
-      ### 💻 Software Engineering
-      - Java programming
-      - Object-oriented programming
-      - Data structures and problem-solving
-      - Software design and architecture
-      - Database design and management
-      - Processing (Java)
+      <h3>💻 Software Engineering</h3>
+      <p>Building strong foundations in software development, design, and problem-solving.</p>
+      <ul>
+        <li>Java & Object-Oriented Programming</li>
+        <li>Data Structures & Algorithms</li>
+        <li>Software Design & Architecture</li>
+        <li>Database Design & Management</li>
+        <li>Processing (Java)</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      ### 🤖 Artificial Intelligence
-      - Large Language Models (LLMs)
-      - AI agents and agentic workflows
-      - Retrieval-Augmented Generation (RAG)
-      - Prompt engineering
-      - Model quantisation
-      - Local AI deployment
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>Exploring modern AI technologies and how to integrate them into practical applications.</p>
+      <ul>
+        <li>Large Language Models (LLMs)</li>
+        <li>AI Agents & Agentic Workflows</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Prompt Engineering</li>
+        <li>Model Quantisation & Local Deployment</li>
+      </ul>
     </td>
   </tr>
 </table>
