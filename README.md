@@ -1,131 +1,155 @@
-👋 Hi, I'm Mohsin Chughtai
-Software Engineering Student | Aspiring AI & Systems Engineer
+# 👋 Hey, I'm Mohsin Chughtai
 
-I'm a Software Engineering student at Manchester Metropolitan University with a strong interest in software engineering, artificial intelligence, systems design, and scalable software architecture.
+### 💻 Software Engineering Student | Aspiring AI & Systems Engineer
 
-I'm currently focused on building a strong foundation in programming, object-oriented design, databases, software architecture, and problem-solving while developing practical projects that help me grow as an engineer.
+Building software, exploring AI, and turning ideas into practical solutions.
 
-My long-term goal is to become a Software Engineer capable of designing and building intelligent systems that combine software engineering and AI.
+I'm a Software Engineering student at **University** with a passion for software development, artificial intelligence, systems design, and scalable architecture.
 
-🚀 Current Focus
-Software Engineering
+My focus is on building strong engineering fundamentals, developing practical projects, and exploring how AI can be integrated into reliable, intelligent software systems.
 
-Currently developing skills in:
+- 🎓 Studying Software Engineering at Manchester Metropolitan University
+- ☕ Developing my skills in Java, OOP, and software design
+- 🤖 Completing the AMD AI Developer Program
+- 🛠️ Building projects to apply what I learn
+- 🌏 Exploring AI innovation and the Chinese technology ecosystem
 
-Java
-Object-Oriented Programming
-Software Architecture
-Software Design
-Data Structures
-Databases
-Problem Solving
-Artificial Intelligence
+---
 
-Alongside my degree, I am completing the AMD AI Developer Program and exploring:
+## 🚀 What I'm Working On
 
-AI Foundations
-Large Language Models (LLMs)
-AI Agents
-Retrieval-Augmented Generation (RAG)
-Local AI Deployment
-Prompt Engineering
-AI Systems Design
-🛠️ Current Projects
-Player Management System (Java)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Player Management System</h3>
+      <p>A Java project focused on authentication, user management, and core software engineering principles.</p>
+      <strong>Key Features</strong>
+      <ul>
+        <li>User registration and login</li>
+        <li>Username generation and duplicate detection</li>
+        <li>Email and password validation</li>
+        <li>User profile viewing</li>
+      </ul>
+      <p><strong>Focus:</strong> OOP, collections, validation, and software architecture.</p>
+    </td>
+    <td width="50%">
+      <h3>🎓 Student OS</h3>
+      <p>A long-term project exploring a smarter way to organise university life and student productivity.</p>
+      <strong>Planned Features</strong>
+      <ul>
+        <li>Deadline and study management</li>
+        <li>Personal productivity tools</li>
+        <li>AI-assisted workflows</li>
+        <li>Intelligent automation</li>
+      </ul>
+      <p><strong>Focus:</strong> System design, usability, and AI integration.</p>
+    </td>
+  </tr>
+</table>
 
-A Java project created to strengthen my understanding of Software Engineering concepts.
+---
 
-Features currently include:
+## 🧠 Current Learning Journey
 
-User Registration
-Username Generation
-Email Validation
-Password Validation
-Duplicate Username Detection
-User Login
-Profile Viewing
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      ### 💻 Software Engineering
+      - Java programming
+      - Object-oriented programming
+      - Data structures and problem-solving
+      - Software design and architecture
+      - Database design and management
+      - Processing (Java)
+    </td>
+    <td width="50%" valign="top">
+      ### 🤖 Artificial Intelligence
+      - Large Language Models (LLMs)
+      - AI agents and agentic workflows
+      - Retrieval-Augmented Generation (RAG)
+      - Prompt engineering
+      - Model quantisation
+      - Local AI deployment
+    </td>
+  </tr>
+</table>
 
-Current learning objectives:
+Currently completing the **AMD AI Developer Program** alongside my university studies.
 
-OOP
-Collections
-Authentication
-Software Architecture
-Java Development
-Student OS (In Development)
+---
 
-A long-term project focused on helping students better manage university life.
+## 🛠️ Tech Stack
 
-Planned features include:
+### Languages & Web Technologies
 
-Deadline Management
-Study Organisation
-AI-Assisted Features
-Personal Productivity Tools
-Intelligent Automation
-📚 Currently Learning
-University
-Java
-Processing (Java)
-Object-Oriented Programming
-Software Engineering Fundamentals
-AMD AI Developer Program
-LLM Architectures
-AI Agents
-RAG Systems
-Prompt Engineering
-Quantisation
-AI Model Deployment
-💻 Technologies
-Languages
-Java
-Python
-C#
-JavaScript
-SQL
-HTML/CSS
-Tools
-IntelliJ IDEA
-Visual Studio
-VS Code
-Git
-GitHub
-SQLite
-Exploring
-React
-FastAPI
-PostgreSQL
-Docker
-Azure
-Cloud Technologies
-🌍 Areas of Interest
-Software Engineering
-Artificial Intelligence
-Agentic AI
-Systems Design
-Cloud Computing
-Scalable Architecture
-Productivity Systems
-Chinese AI Ecosystem
-🎯 Long-Term Vision
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-My goal is to become an engineer who can:
+### Tools & Development Environment
 
-Design reliable software systems
-Build AI-powered applications
-Understand both software architecture and machine learning
-Develop solutions that create real-world impact
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
-I believe that strong software engineering foundations are essential for building effective AI systems.
+### 🔭 Technologies on My Radar
 
-📈 Engineering Philosophy
+`React` · `FastAPI` · `PostgreSQL` · `Docker` · `Azure` · `Cloud Computing`
 
-"I'm not learning programming languages for their own sake. I'm learning how to design and build systems that solve real problems."
+---
 
-Current approach:
+## 🏗️ Engineering Interests
 
-Build projects
-Learn through implementation
-Understand fundamentals deeply
-Focus on long-term growth
-Document the journey publicly
+- 🧩 Software architecture and system design
+- 🤖 Artificial intelligence and agentic systems
+- 🔎 RAG pipelines and knowledge retrieval
+- ☁️ Cloud infrastructure and deployment
+- ⚡ Performance, scalability, and reliability
+- 🌏 Emerging AI technologies and China's tech ecosystem
+
+---
+
+## 🎯 My Engineering Vision
+
+I want to become a software engineer who understands not just how to write code, but how to design, build, deploy, and maintain complete systems.
+
+My long-term goals are to:
+
+- Build reliable, maintainable software.
+- Integrate AI into applications to solve real-world problems.
+- Understand the systems and infrastructure behind intelligent applications.
+- Design scalable architectures that can evolve over time.
+- Turn ideas into useful products that create meaningful impact.
+
+I believe **strong software engineering fundamentals are the foundation of effective AI engineering.**
+
+---
+
+## 📈 How I Approach Engineering
+
+> "I'm not learning programming languages for their own sake. I'm learning how to design and build systems that solve real problems."
+
+My approach is simple:
+
+- 🔨 **Build** — turn concepts into working projects.
+- 🧠 **Understand** — learn the principles behind the implementation.
+- 🔍 **Experiment** — explore different tools, approaches, and architectures.
+- 📚 **Improve** — review my code and learn from mistakes.
+- 🌱 **Document** — share my progress and keep developing as an engineer.
+
+---
+
+### 💡 Always Learning. Always Building. Always Improving.
+
+*One project, one concept, and one step closer to becoming the engineer I aspire to be.*
