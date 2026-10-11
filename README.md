@@ -1,128 +1,131 @@
-# 👋 Hi, I'm Mohsin — Full‑Stack AI Systems Engineer
+👋 Hi, I'm Mohsin, but you can call me "Mo"
+Software Engineering Student | Aspiring AI & Systems Engineer
 
-I build **real-world automation systems**, **AI‑powered workflows**, and **modular engineering templates** that help businesses operate faster, smarter, and more efficiently.  
-My focus is on **Lean AI**, **small-model deployment**, **RAG pipelines**, and **full‑stack system architecture**.
+I'm a Software Engineering student with a strong interest in software engineering, artificial intelligence, systems design, and scalable software architecture.
 
----
+I'm currently focused on building a strong foundation in programming, object-oriented design, databases, software architecture, and problem-solving while developing practical projects that help me grow as an engineer.
 
-## 🚀 What I Do
+My long-term goal is to become a Software Engineer capable of designing and building intelligent systems that combine software engineering and AI.
 
-### **🔹 Full‑Stack AI Systems**
-I design and build complete systems using:
-- Python (Flask, FastAPI)
-- JavaScript (Vanilla, Node)
-- HTML, CSS
-- SQLite, PostgreSQL
-- Docker, REST APIs
+🚀 Current Focus
+Software Engineering
 
-### **🔹 Lean AI & Automation**
-I specialise in:
-- Small-model inference (CPU‑friendly)
-- RAG pipelines
-- AI agents
-- Workflow automation
-- Data extraction & processing
-- Real‑world business automation
+Currently developing skills in:
 
-### **🔹 Modular Engineering Templates**
-I build reusable, composable modules:
-- Authentication systems  
-- Order processing pipelines  
-- Inventory & dashboard systems  
-- AI integration modules  
-- Automation triggers  
-- Admin panels  
+Java
+Object-Oriented Programming
+Software Architecture
+Software Design
+Data Structures
+Databases
+Problem Solving
+Artificial Intelligence
 
-These form the foundation of scalable automation products.
+Alongside my degree, I am completing the AMD AI Developer Program and exploring:
 
----
+AI Foundations
+Large Language Models (LLMs)
+AI Agents
+Retrieval-Augmented Generation (RAG)
+Local AI Deployment
+Prompt Engineering
+AI Systems Design
+🛠️ Current Projects
+Player Management System (Java)
 
-## 🧠 Current Projects
+A Java project created to strengthen my understanding of Software Engineering concepts.
 
-### **1. Fast‑Food Automation System**
-A full-stack system built with:
-- Python + Flask backend  
-- SQLite database  
-- HTML/CSS/JS frontend  
-- Automated order processing  
-- Admin dashboard  
-- Modular architecture  
+Features currently include:
 
-### **2. Global Trade Platform (In Development)**
-A multi‑industry platform exploring:
-- Supply chain automation  
-- AI‑powered sourcing  
-- Workflow optimisation  
-- Scalable architecture  
+User Registration
+Username Generation
+Email Validation
+Password Validation
+Duplicate Username Detection
+User Login
+Profile Viewing
 
-### **3. AI Queue Prediction Model**
-A research-driven project using:
-- Small models  
-- Data analysis  
-- Predictive modelling  
-- R&D methodology  
+Current learning objectives:
 
-### **4. C# Desktop Applications**
-Building structured, clean Windows apps using:
-- C#  
-- .NET  
-- Visual Studio  
-- OOP principles  
+OOP
+Collections
+Authentication
+Software Architecture
+Java Development
+Student OS (In Development)
 
----
+A long-term project focused on helping students better manage university life.
 
-## 🛠️ Tech Stack
+Planned features include:
 
-### **Languages**
-- Python  
-- JavaScript  
-- C#  
-- SQL  
-- HTML/CSS  
-- Bash  
+Deadline Management
+Study Organisation
+AI-Assisted Features
+Personal Productivity Tools
+Intelligent Automation
+📚 Currently Learning
+University
+Java
+Processing (Java)
+Object-Oriented Programming
+Software Engineering Fundamentals
+AMD AI Developer Program
+LLM Architectures
+AI Agents
+RAG Systems
+Prompt Engineering
+Quantisation
+AI Model Deployment
+💻 Technologies
+Languages
+Java
+Python
+C#
+JavaScript
+SQL
+HTML/CSS
+Tools
+IntelliJ IDEA
+Visual Studio
+VS Code
+Git
+GitHub
+SQLite
+Exploring
+React
+FastAPI
+PostgreSQL
+Docker
+Azure
+Cloud Technologies
+🌍 Areas of Interest
+Software Engineering
+Artificial Intelligence
+Agentic AI
+Systems Design
+Cloud Computing
+Scalable Architecture
+Productivity Systems
+Chinese AI Ecosystem
+🎯 Long-Term Vision
 
-### **Frameworks & Tools**
-- Flask / FastAPI  
-- Docker  
-- Git / GitHub  
-- VS Code / Visual Studio  
-- Linux (Ubuntu)  
-- SQLite / PostgreSQL  
+My goal is to become an engineer who can:
 
-### **AI & ML**
-- RAG  
-- Small-model deployment  
-- Embeddings  
-- Vector search  
-- Agents  
-- Data pipelines  
+Design reliable software systems
+Build AI-powered applications
+Understand both software architecture and machine learning
+Develop solutions that create real-world impact
 
----
+I believe that strong software engineering foundations are essential for building effective AI systems.
 
-## 🌍 What I’m Working Toward
+📈 Engineering Philosophy
 
-- Becoming a **full‑stack AI engineer** with global industry experience  
-- Building **modular automation systems** for SMEs  
-- Developing a **Lean AI template library**  
+"I'm not learning programming languages for their own sake. I'm learning how to design and build systems that solve real problems."
 
----
+Current approach:
 
-## 📈 My Engineering Philosophy
-
-> “I’m not here to memorise code — I’m here to design systems.  
-> AI is the tool. The vision, the architecture, and the decisions come from me.”
-
-I focus on:
-- clarity  
-- structure  
-- modularity  
-- sustainability  
-- real‑world impact  
-
----
-
-## 📫 Connect With Me
-
-- **Email:** *chughtai.mohsin@yahoo.com*
- 
----
+Build projects
+Learn through implementation
+Understand fundamentals deeply
+Focus on long-term growth
+Document the journey publicly
